@@ -1,0 +1,23 @@
+{
+  "name": "flash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BasicCarrd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marioiovanna/Flashcard-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marioiovanna/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/marioiovanna/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.1.1",
+    "requirer": "0.0.4"
+  }
+}
